@@ -402,10 +402,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   //Tevo Tornado 
-  #define DEFAULT_Kp 20.53
-  #define DEFAULT_Ki 1.54
-  #define DEFAULT_Kd 68.54
-
+ #define DEFAULT_Kp 24.18
+ #define DEFAULT_Ki 2.66
+ #define DEFAULT_Kd 54.96
   
   // Ultimaker
   //#define DEFAULT_Kp 22.2
